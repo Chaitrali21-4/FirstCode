@@ -2,3 +2,4 @@ This is test 1
 DAY1  pREPARATION
 git commands
 1.git status  :use to check git status.
+2. git pull  : use to pull data from remote repository.
